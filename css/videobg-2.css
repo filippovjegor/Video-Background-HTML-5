@@ -20,6 +20,11 @@
     height:100%;
     overflow:hidden;
 }
+.video_wrap video{
+    min-height: 400px;
+    min-width: 100%;
+    width: 100%;
+}
 .video_bg .post_title {
     display: block;
     width: 80%;
@@ -46,4 +51,6 @@
     display: inline-block;
     margin-top: 20px;
 }
+
+
 
