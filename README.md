@@ -34,4 +34,4 @@ All! And you thought will be more difficult?
 <h2><a href="http://filwebs.ru/example/videobg/videobg-2.html" target="_blank">Example Demo-2</a></h2>
 <h2><a href="http://filwebs.ru/example/videobg/videobg-3.html" target="_blank">Example Demo-3</a></h2>
 
-<h2><a href="http://filwebs.ru" target="_blank">DESCRIPTIONS</a></h2>
+<h2><a href="http://filwebs.ru/sozdanie-video-background-html-5/" target="_blank">DESCRIPTIONS</a></h2>
