@@ -20,6 +20,12 @@ Define the minimum CSS properties:
      height: auto;
      z-index: -100;
      overflow: hidden;
+     
+.fullscreen-bg video{
+    min-height: 100%;
+    min-width: 100%;
+    width: 100%;
+}
 }</pre>
 All! And you thought will be more difficult?
 
